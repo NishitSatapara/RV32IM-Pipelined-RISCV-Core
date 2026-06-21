@@ -190,10 +190,4 @@ Through this project, the following concepts were explored:
 
 This project is released under the MIT License.
 
----
 
-## Author
-
-Final Year Engineering Project
-
-RV32IM 5-Stage Pipelined RISC-V Processor
